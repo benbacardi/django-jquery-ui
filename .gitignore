@@ -35,3 +35,5 @@ nosetests.xml
 .pydevproject
 
 ._*
+MANIFEST
+deb_dist
