@@ -8,6 +8,8 @@ django-jquery-ui
 
 jQuery UI packaged in a django app to speed up new applications and deployment.
 
+> Note that this does not include jQuery itself, use a package such as [django-jquery](https://pypi.python.org/pypi/django-jquery/) to do so.
+
 Installation
 ------------
 
