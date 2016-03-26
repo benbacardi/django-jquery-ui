@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django-jquery-ui',
-    version='1.11.4',
+    version='1.11.4.1',
     url='https://github.com/benbacardi/django-jquery-ui',
     description='jQuery UI packaged in a django app to speed up new applications and deployment.',
     author='Ben Cardy',
