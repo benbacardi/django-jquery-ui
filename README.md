@@ -40,3 +40,9 @@ Then use the `static` template tag to load the jQuery UI files:
     <link rel='stylesheet' type='text/css' href='{% static 'css/jquery-ui/smoothness/jquery-ui.css' %}' />
     
 Replace `smoothness` with the jQuery UI theme you'd like to use.
+
+Deployment
+-----
+
+Instead of `jquery.js` use the compressed `jquery-ui.min.js`
+Instead of `jquery-ui.css` use the compressed `jquery-ui.min.css`
