@@ -1,10 +1,10 @@
 django-jquery-ui
 ================
 
-![Version Badge](https://pypip.in/v/django-jquery-ui/badge.png)  
-![Downloads Badge](https://pypip.in/d/django-jquery-ui/badge.png)  
-![Wheel Status Badge](https://pypip.in/wheel/django-jquery-ui/badge.png)  
-![License Badge](https://pypip.in/license/django-jquery-ui/badge.png)  
+![Version Badge](https://img.shields.io/pypi/v/django-jquery-ui.svg)  
+![Downloads Badge](https://img.shields.io/pypi/dm/django-jquery-ui.svg)  
+![Wheel Status Badge](https://img.shields.io/pypi/wheel/django-jquery-ui.svg)  
+![License Badge](https://img.shields.io/github/license/benbacardi/django-jquery-ui.svg)  
 
 jQuery UI packaged in a django app to speed up new applications and deployment.
 
