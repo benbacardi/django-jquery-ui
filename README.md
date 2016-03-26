@@ -41,8 +41,7 @@ Then use the `static` template tag to load the jQuery UI files:
     
 Replace `smoothness` with the jQuery UI theme you'd like to use.
 
-Deployment
+Version 1.11.4.1: Notes
 -----
 
-Instead of `jquery.js` use the compressed `jquery-ui.min.js`
-Instead of `jquery-ui.css` use the compressed `jquery-ui.min.css`
+This version introduces the non-compressed version of the JS and CSS. To continue using the compressed versions, please use `jquery-ui.min.js` and `jquery-ui.min.css` instead.
