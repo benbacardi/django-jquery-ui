@@ -24,8 +24,14 @@ Add to `jquery_ui` to your `INSTALLED_APPS` in `settings.py`:
         'jquery_ui',
         ...
     )
-    
-Run `collectstatic` to bring in the jQuery UI static files.
+
+You may need to have the following variables set:
+
+    PROJECT_DIR
+    PROJECT_ROOT
+    STATIC_ROOT
+
+Run `python manage.py collectstatic` to bring in the jQuery UI static files.
     
 Usage
 -----
